@@ -6,22 +6,7 @@
 	<? include "parts/meta.php"; ?>
 </head>
 <body>
-	<header>
-		<div class="container display-flex">
-			<div class="flex-none"></div>
-			<h1>Audia</h1>
-			<div class="flex-stretch"></div>
-			<div class="flex-none nav">
-				<ul class="container display-flex">
-					<li><a href="#article1">Home</a></li>
-					<li><a href="#article2">Products</a></li>
-					<li><a href="#article3">Mission</a></li>
-					<li><a href="#article4">Contact</a></li>
-				</ul>
-			</div>
-		</div>
-	</header>
-
+	<? include "parts/navbar.php"; ?>
 <div class="container">
 	<div class="card soft">
 		<h2>Grid</h2>

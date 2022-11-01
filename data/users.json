@@ -1,0 +1,34 @@
+[
+	{
+		"name":"Pranav Sudhakar",
+		"type":"Student",
+		"email":"psud@email.com",
+		"classes":[601,608,618]
+	},
+	{
+		"name":"Roman Roy",
+		"type":"CFO",
+		"email":"rroy@email.com",
+		"classes":[601,608,617,618]
+	},
+	{
+		"name":"Kendall Roy",
+		"type":"CTO",
+		"email":"kroy@email.com",
+		"classes":[249,250,369]
+	},
+	{
+		"name":"Logan Roy",
+		"type":"Founder",
+		"email":"lroy@email.com",
+		"classes":[250,601,618,608]
+	},
+	{
+		"name":"Shiv Roy",
+		"type":"CEO",
+		"email":"sroy@email.com",
+		"classes":[249,608,617]
+	}
+]
+
+
